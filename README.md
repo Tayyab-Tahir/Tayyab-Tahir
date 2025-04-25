@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm **@TayyabTahir**  
+🚀 Full Stack Developer | 💙 Flutter Enthusiast | 📱 Cross-Platform App Specialist
 
-<!--
-**Tayyab-Tahir/Tayyab-Tahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Areas of Interest
+- 📱 **Flutter & Dart** for cross-platform mobile development  
+- ☁️ **Firebase** & 🌐 **RESTful APIs**  
+- 🖥️ **Node.js**, ⚙️ **Express**, and 🗄️ **SQL Databases**  
+- 🎨 **UI/UX Design** and **Frontend Integration**  
+- 🧩 **State Management**: Provider, Riverpod, BLoC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Currently Learning
+- 🌍 **Flutter Web & Desktop**  
+- 🔗 **GraphQL APIs**  
+- 🧼 **Clean Architecture** & 🧪 **Testing in Flutter**  
+- 🔄 **CI/CD Pipelines** for Mobile Apps
+
+---
+
+## 🤝 Looking to Collaborate On
+- 📱 Scalable **cross-platform applications**  
+- 🔌 **Open-source Flutter plugins**  
+- 🔧 End-to-end **mobile solutions**
+
+---
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-16816b271)  
+- 📧 m.tayyab.tahir.official@gmail.com  
+- 📱 +92 305 6707149
+
+---
+
+> ✨ *Code with purpose. Build with passion.* 💡
